@@ -1,0 +1,55 @@
+
+.topcontainer{
+  margin: 0;
+  background-color: #f4eeff;
+  position: relative;
+  padding-top: 160px;
+}
+h1{
+  font-family: 'Sacramento', cursive;
+
+}
+body{
+  margin-top: 0;
+  margin: 0;
+  text-align: center;
+}
+.clouda{
+  width:200px;
+  height:200px;
+  position: absolute;
+  right: 300px;
+  top: 10px;
+}
+.cloudb{
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  top:300px;
+  left: 220px;
+}
+.mountainclass{
+position: relative;
+top: 20px;
+}
+.spanclass{
+  margin-top: 0;
+
+}
+h2{
+  font-family: 'Merriweather', serif;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+p{
+  font-family: 'Baloo 2', cursive;
+}
+.middlecontainer{
+  padding-top: 30px;
+background-color:#dcd6f7;
+}
+
+.bottomcontainer{
+background-color:#a6b1e1;
+}
